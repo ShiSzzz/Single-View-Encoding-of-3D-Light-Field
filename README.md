@@ -21,4 +21,7 @@ Memory Optimization: Reduces VRAM usage by 50% via lifecycle management and CUDA
 
 # DATA
 ## ShapeNet cars
-We use the ShapeNet-SRN class(cars) to generate our image dataset. The dataset we used can be found [here](https://pan.baidu.com/s/1tVTYlZURE3wZ7Y9bpmKv6w?pwd=78s3) . You can also directly download other types of models from ShapeNet to generate your own image dataset.
+We use the ShapeNet-SRN class(cars) to generate our image dataset. The dataset we used can be found [here](https://pan.baidu.com/s/1tVTYlZURE3wZ7Y9bpmKv6w?pwd=78s3) . You can also directly download other types of models from ShapeNet to generate your own image dataset. We provide a Blender script for generating the image dataset.
+
+# Code
+We are currently organizing the work, and the code will be released soon.
