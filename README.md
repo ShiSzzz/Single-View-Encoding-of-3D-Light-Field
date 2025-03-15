@@ -1,4 +1,4 @@
-# Single-View-Encoding-of-3D-Light-Field
+# Single View Encoding of 3D Light Field
 # 📖 Overview
 
 This repository implements the method proposed in the paper "Single-View Encoding of 3D Light Field Based on Editable Field of View Gaussian Splatting", which enables real-time generation of high-resolution 8K light field images (96 viewpoints) from a single input image. By combining 3D Gaussian Splatting (3DGS) with light field encoding, the method achieves a 30x speedup over traditional approaches while maintaining optimal rendering quality. Key innovations include:
