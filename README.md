@@ -11,7 +11,7 @@ Memory Optimization: Reduces VRAM usage by 50% via lifecycle management and CUDA
 
 
 # 🚀 Features
-🖼️ Single-View to 8K Light Field: Generate 7680×3840 light field images from a single RGB input.
+🖼️ Single-View to 8K Light Field: Generate 7680×4320 light field images from a single RGB input.
 
 ⚡ Real-Time Performance: ~0.04s per 96-view rendering (tested on RTX 3090).
 
